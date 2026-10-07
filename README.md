@@ -97,3 +97,5 @@ More social links and updates will be shared as the Tusmo project continues to g
 
 
 Built for testing **Tusmo**, a Somali programming language.
+
+**TusmoLang** — *Ku qor. Ku dhis. Af-Soomaali.*
